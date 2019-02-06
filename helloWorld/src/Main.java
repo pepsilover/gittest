@@ -7,6 +7,7 @@ public class Main {
 	System.out.println("Hello Charles...");
 	System.out.println("n[t jag inte kan saga hogt");
 	System.out.println("dinn tröja är lila");
+	System.out.println("dinn tröja är vinröd");
 
 
     }

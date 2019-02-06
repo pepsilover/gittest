@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Charles: Hello Mirai!");
 	System.out.println("Mirai:  sup dawg");
 	System.out.println("Hello Charles...");
+	System.out.println("n[t jag inte kan saga hogt");
 
     }
 }
